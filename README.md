@@ -1,4 +1,4 @@
-# Chess-DOS-VirtualMachine Installer
+# Chess-DOS-VirtualMachine Linux Installer
 
 Welcome to the Chess-DOS-VirtualMachine Linux Installer! This script complements the original Chess-DOS-VirtualMachine collection, providing a seamless installation process for Linux users. The original collection, which includes only Windows installation files, is hosted on [Franz Huber's Program Projects](https://fhub.jimdofree.com/). This installer ensures that retro computer chess programs are accessible to Linux users as well.
 

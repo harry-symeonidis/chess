@@ -19,7 +19,7 @@ Welcome to the Chess-DOS-VirtualMachine Linux Installer! This script complements
 
 1. **Download the script:**
     ```bash
-    curl -O https://github.com/harry-symeonidis/chess/blob/main/install-Chess-VM.sh
+    curl -O https://raw.githubusercontent.com/harry-symeonidis/chess/refs/heads/main/install-Chess-VM.sh
     ```
 
 2. **Make the script executable:**

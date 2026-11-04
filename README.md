@@ -88,6 +88,7 @@ If you encounter any issues, please check the following:
 
 - **Chess-DOS-VirtualMachine Linux Installer:** [Harry Symeonidis' repo on GitHub](https://github.com/harry-symeonidis/chess)
 - **Download Chess-DOS-VirtualMachine:** [Franz Huber's Program Projects](https://fhub.jimdofree.com/)
+- [ScanChess](https://scanchess.com) - Free chess OCR: turn a board photo or screenshot into editable FEN and handwritten scoresheets into PGN, then analyze in the browser.
 
 ## Contributing
 
